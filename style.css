@@ -13,7 +13,7 @@ body{
 
 .main {
     position: absolute;
-    left: 1210px;
+    right: 50px;
     top: 216px;
     border-radius: 10px;
     background: #a6a0ff24;
