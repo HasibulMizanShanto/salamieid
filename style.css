@@ -13,13 +13,13 @@ body{
 
 .main {
     position: absolute;
-    right: 50px;
+    right: 10px;
     top: 216px;
     border-radius: 10px;
     background: #a6a0ff24;
     border: 2px solid silver;
     outline: 4px solid beige;
-    width: 600px;
+    width: 350px;
     height: 400px;
     display: flex;
     flex-direction: column;
